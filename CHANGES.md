@@ -1,6 +1,9 @@
 resync-simulator change log
 ===========================
 
+????-??-?? v1.0.4
+  * ...
+
 2018-01-15 v1.0.3
   * drop python 3.3 support in favor of 3.4+ (and 2.7) because Tornado requires a more up-to-date SSL module than 3.3
 
